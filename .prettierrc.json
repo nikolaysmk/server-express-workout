@@ -1,0 +1,17 @@
+{
+    
+    "prettier.printWidth": 80,
+    "prettier.tabWidth": 4,
+    "prettier.useTabs": false,
+    "prettier.semi": true,
+    "prettier.singleQuote": true,
+    "prettier.jsxSingleQuote": false,
+    "prettier.trailingComma": "none",
+    "prettier.bracketSpacing": true,
+    "prettier.jsxBracketSameLine": false,
+    "prettier.arrowParens": "avoid",
+    "prettier.rangeStart": 0,
+    "prettier.rangeEnd": "Infinity",
+    "prettier.parser": "babylon"
+    
+}
