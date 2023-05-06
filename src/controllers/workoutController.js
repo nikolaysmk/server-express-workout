@@ -18,6 +18,24 @@ const getAllWorkouts = (req, res) => {
   const deleteOneWorkout = (req, res) => {
     res.send("Delete an existing workout");
   };
+
+  const workoutController ={
+    getAllWorkouts,
+getOneWorkout,
+createNewWorkout,
+updateOneWorkout,
+deleteOneWorkout,
+
+  }
+
+  const workoutController = {
+    getAllWorkouts,
+    getOneWorkout,
+    createNewWorkout,
+    updateOneWorkout,
+    deleteOneWorkout,
+  };
+  
   
   module.exports = {
     getAllWorkouts,
